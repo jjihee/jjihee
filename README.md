@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 김지희입니다.</li><li> 🔭 I’m currently working on ...</li><li> 🌱 I’m currently learning ...</li><li> 👯 I’m looking to collaborate on ...</li><li> 🤔 I’m looking for help with ...</li><li> 💬 Ask me about ...</li><li> 📫 How to reach me: ...</li><li> 😄 Pronouns: ...</li><li> ⚡ Fun fact: ...</li><li><li>> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 김지희입니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
