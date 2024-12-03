@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jjihee&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**🎓 통계데이터사이언스학과 석사과정 | 🔬 인과추론 연구자 | 🚀 Data Scientist 지망생**
+**🎓 통계데이터사이언스학과 석사과정 | 🚀 Data Scientist 지망생**
 
 ## 🛠 Tech Stack
 
@@ -15,8 +15,6 @@
 
 ## 📊 Projects & Studies
 
-- [TIDES](https://github.com/jjihee/TIDES) - Data Science Project
-- [Awesome Causal Inference](https://github.com/jjihee/awesome-causal-inference) - Resource List
 - [2023 Spring DSL Session](https://github.com/jjihee/2023-Spring-First-RegularSession)
 - [2022 Fall DSL Session](https://github.com/jjihee/2022-Fall-RegularSession)
 
@@ -24,7 +22,6 @@
 
 - 인과추론 (Causal Inference)
 - 데이터 사이언스 (Data Science)
-- 통계적 방법론 (Statistical Methodology)
 
 ## 📫 Connect with Me
 
