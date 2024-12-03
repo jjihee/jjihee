@@ -1,28 +1,39 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff4c,100:3892d6&height=180&text=Jihee%20Kim&animation=&fontColor=ffffff&fontSize=60" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 김지희입니다. </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-          <br/></div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:jihee_sta@yonsei.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jihee_sta@yonsei.ac.kr"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">   </div> 
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jjihee&theme=vue" alt="GitHub Streak" /></a>
-    </div>
+# 안녕하세요, 저는 Jihee Kim입니다! 👋
 
-    
+![Profile Views](https://komarev.com/ghpvc/?username=jjihee&color=blueviolet&style=flat-square&label=Profile+Views)
+
+**🎓 통계데이터사이언스학과 석사과정 | 🔬 인과추론 연구자 | 🚀 Data Scientist 지망생**
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+## 📊 Projects & Studies
+
+- [TIDES](https://github.com/jjihee/TIDES) - Data Science Project
+- [Awesome Causal Inference](https://github.com/jjihee/awesome-causal-inference) - Resource List
+- [2023 Spring DSL Session](https://github.com/jjihee/2023-Spring-First-RegularSession)
+- [2022 Fall DSL Session](https://github.com/jjihee/2022-Fall-RegularSession)
+
+## 📚 Research Interests
+
+- 인과추론 (Causal Inference)
+- 데이터 사이언스 (Data Science)
+- 통계적 방법론 (Statistical Methodology)
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jjihee)
+
+## 📊 GitHub Stats
+
+![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjihee&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjihee&layout=compact&theme=radical)
+
+⭐️ From [jjihee](https://github.com/jjihee)
